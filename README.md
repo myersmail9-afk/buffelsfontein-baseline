@@ -9,3 +9,6 @@ Every public sighting and specimen recorded inside Buffelsfontein Game and Natur
 - **Sources:** iNaturalist; eBird (Cornell Lab), Observation.org, Birda, DNA barcodes (BOLD / iBOL) and herbarium specimens via GBIF; and the Southern African Bird Atlas Project 2 (FitzPatrick Institute, UCT).
 - **Citations and licences** are on the page. Every number links to the exact records behind it, and every record links back to its source.
 - **Privacy:** no exact sighting locations are published (the map uses about 250 m squares). Protected species are never mapped. Observers are anonymised.
+
+
+**Moved:** this page now lives in the private `client-demos` repo. The old link redirects automatically.
